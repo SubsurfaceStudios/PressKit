@@ -18,3 +18,13 @@ If we do decide to add the unused songs they will be added in following path: ``
 The looped versions of the OST are missing, because they're only used in-game.
 If the majority of people, who use this kit, request the looped music we'll add it.
 The music will then be found under ``Music/Compensation Social/Loops``
+
+## What is Intermission?
+Intermission is a track used in ``Raven/Amphitheatre`` as a track to be played whenever something is being set up on the stage or something goes wrong.
+Intermission can be heard in the [Creation Tools Demo Livestream](https://youtu.be/1ybrixAR3-0?t=2433)
+
+
+## Credits
+Helping Hands composed by WatermelonFroggy
+Compensation Social OST composed by [LeonInfinity](https://github.com/LeonToGamer)
+Airsoft OST composed by [AveryOcean](https://github.com/AveryOcean)
