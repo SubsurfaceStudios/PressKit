@@ -25,6 +25,6 @@ Intermission can be heard in the [Creation Tools Demo Livestream](https://youtu.
 
 
 ## Credits
-Helping Hands composed by WatermelonFroggy
-Compensation Social OST composed by [LeonInfinity](https://github.com/LeonToGamer)
+Helping Hands composed by WatermelonFroggy<br>
+Compensation Social OST composed by [LeonInfinity](https://github.com/LeonToGamer)<br>
 Airsoft OST composed by [AveryOcean](https://github.com/AveryOcean)
